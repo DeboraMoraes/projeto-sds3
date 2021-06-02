@@ -11,7 +11,7 @@ const Footer = () => {
           >
             Debora Moraes
           </a>
-          and
+          <p>and</p>
           <a
             href="https://github.com/viniharu"
             target="_blank"
