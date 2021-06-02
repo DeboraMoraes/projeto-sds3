@@ -11,20 +11,14 @@ const Footer = () => {
           >
             Debora Moraes
           </a>
-        </p>
-        <p className="text-light">
-          <small>
-            <strong>Semana Spring React</strong>
-            <br />
-            Evento promovido pela escola DevSuperior:{" "}
-            <a
-              href="https://instagram.com/devsuperior.ig"
-              target="_blank"
-              rel="noreferrer"
-            >
-              @devsuperior.ig
-            </a>
-          </small>
+          and
+          <a
+            href="https://github.com/viniharu"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Vinicius Costa
+          </a>
         </p>
       </div>
     </footer>
